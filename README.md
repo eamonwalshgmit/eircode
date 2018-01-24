@@ -1,0 +1,2 @@
+# eircode
+Eircode intro script
